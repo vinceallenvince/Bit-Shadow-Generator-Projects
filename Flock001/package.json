@@ -1,0 +1,11 @@
+{
+  "name": "Flock001",
+  "version": "1.0.0",
+  "description": "Flock001",
+  "main": "main.js",
+  "generator-core-version": ">=1.0.0",
+  "dependencies": {
+    "node-restclient": "~0.0.1",
+    "oauth": "~0.9.10"
+  }
+}

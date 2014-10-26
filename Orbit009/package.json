@@ -1,0 +1,11 @@
+{
+  "name": "Orbit009",
+  "version": "1.0.0",
+  "description": "Orbit009",
+  "main": "main.js",
+  "generator-core-version": ">=1.0.0",
+  "dependencies": {
+    "node-rest-client": ">=0.7.0",
+    "oauth": "~0.9.10"
+  }
+}

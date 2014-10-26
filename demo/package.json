@@ -1,0 +1,11 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "main.js",
+  "generator-core-version": ">=1.0.0",
+  "dependencies": {
+    "node-rest-client": ">=0.7.0",
+    "oauth": "~0.9.10"
+  }
+}

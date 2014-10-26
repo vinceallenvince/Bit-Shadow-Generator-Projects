@@ -1,0 +1,16 @@
+{
+  "author": {
+    "name": "Vince Allen"
+  },
+  "name": "bit-gen-utils",
+  "description": "Utiility functions for Bit-Shadow-Generator.",
+  "version": "0.0.1",
+  "repository": {},
+  "main": "./lib/bit-gen-utils",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}

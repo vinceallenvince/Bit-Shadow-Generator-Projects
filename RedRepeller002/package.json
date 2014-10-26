@@ -1,0 +1,11 @@
+{
+  "name": "RedRepeller002",
+  "version": "1.0.0",
+  "description": "RedRepeller002",
+  "main": "main.js",
+  "generator-core-version": ">=1.0.0",
+  "dependencies": {
+    "node-restclient": "~0.0.1",
+    "oauth": "~0.9.10"
+  }
+}

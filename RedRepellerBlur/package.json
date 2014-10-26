@@ -1,0 +1,12 @@
+{
+  "name": "RedRepellerBlur",
+  "version": "1.0.0",
+  "description": "RedRepellerBlur",
+  "main": "main.js",
+  "generator-core-version": ">=1.0.0",
+  "dependencies": {
+    "node-rest-client": ">=0.7.0",
+    "oauth": "~0.9.10",
+    "keen.io": ">=0.0.3"
+  }
+}
